@@ -2,11 +2,7 @@
 
 ## Resumen
 
-En este protocolo de tesis se habla sobre la necesidad de tener una herramienta
-computacional que ayude a reducir la brecha entre entusiastas de la cosmología y el
-conocimiento técnico que demanda el área, reduciendo tiempo de aprendizaje para
-que el estudiante pueda seguir adelante, analizado otros temas en lugar de estancarse
-en problemas técnicos que no aportan a su formación.
+En este repositorio se presentan ejemplos de problemas en diferentes áreas de la Física. La idea es utilizar métodos numéricos y hacer correcciones basadas en la física para obtener gráficas que simulen el comportamiento de los sistemas
 
 ## Electrodynamics
 
