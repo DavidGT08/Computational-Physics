@@ -32,3 +32,31 @@ en problemas técnicos que no aportan a su formación.
 <p align="center">
 <img src="./Electrodynamics/poisson/relaxation_method/capacitor3D_plot.png" width="713">
 </p>
+
+## Oscillations
+
+### Pendulo físico
+
+Espacio fase
+<p align="center">
+<img src="./Oscillators/physical_pendulum/fase_fisico.png" width="713">
+</p>
+
+Evolucion temporal de las variables físicas
+<p align="center">
+<img src="./Oscillators/physical_pendulum/variables_fisico.png" width="713">
+</p>
+
+### Pendulo amortiguado
+
+Espacio fase
+<p align="center">
+<img src="./Oscillators/dumped_oscillator/fase_amortiguado.png" width="713">
+</p>
+
+Evolucion temporal de las variables físicas
+<p align="center">
+<img src="./Oscillators/dumped_oscillator/variables_amortiguado.png" width="713">
+</p>
+
+
